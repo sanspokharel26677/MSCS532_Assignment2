@@ -1,0 +1,31 @@
+quick_sort on sorted data of size 1000 took 0.00300 seconds and used 29.34 KB of memory.
+quick_sort on reverse sorted data of size 1000 took 0.00279 seconds and used 25.10 KB of memory.
+quick_sort on random data of size 1000 took 0.00419 seconds and used 50.88 KB of memory.
+merge_sort on sorted data of size 1000 took 0.00310 seconds and used 20.22 KB of memory.
+merge_sort on reverse sorted data of size 1000 took 0.00295 seconds and used 19.79 KB of memory.
+merge_sort on random data of size 1000 took 0.00391 seconds and used 16.83 KB of memory.
+quick_sort on sorted data of size 5000 took 0.01726 seconds and used 123.44 KB of memory.
+quick_sort on reverse sorted data of size 5000 took 0.01730 seconds and used 123.55 KB of memory.
+quick_sort on random data of size 5000 took 0.02363 seconds and used 207.51 KB of memory.
+merge_sort on sorted data of size 5000 took 0.02284 seconds and used 97.71 KB of memory.
+merge_sort on reverse sorted data of size 5000 took 0.02180 seconds and used 97.71 KB of memory.
+merge_sort on random data of size 5000 took 0.03129 seconds and used 81.90 KB of memory.
+quick_sort on sorted data of size 10000 took 0.03518 seconds and used 244.26 KB of memory.
+quick_sort on reverse sorted data of size 10000 took 0.03530 seconds and used 244.37 KB of memory.
+quick_sort on random data of size 10000 took 0.04718 seconds and used 396.09 KB of memory.
+merge_sort on sorted data of size 10000 took 0.04442 seconds and used 195.37 KB of memory.
+merge_sort on reverse sorted data of size 10000 took 0.04724 seconds and used 195.37 KB of memory.
+merge_sort on random data of size 10000 took 0.06921 seconds and used 164.92 KB of memory.
+quick_sort on sorted data of size 20000 took 0.07195 seconds and used 488.70 KB of memory.
+quick_sort on reverse sorted data of size 20000 took 0.07176 seconds and used 488.81 KB of memory.
+quick_sort on random data of size 20000 took 0.09927 seconds and used 701.45 KB of memory.
+merge_sort on sorted data of size 20000 took 0.09792 seconds and used 390.68 KB of memory.
+merge_sort on reverse sorted data of size 20000 took 0.09975 seconds and used 390.68 KB of memory.
+merge_sort on random data of size 20000 took 0.15431 seconds and used 335.27 KB of memory.
+Execution time graph saved as execution_time_sorted_data.png
+Execution time graph saved as execution_time_reverse sorted_data.png
+Execution time graph saved as execution_time_random_data.png
+Memory usage graph saved as memory_usage_sorted_data.png
+Memory usage graph saved as memory_usage_reverse sorted_data.png
+Memory usage graph saved as memory_usage_random_data.png
+
